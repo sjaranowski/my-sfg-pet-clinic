@@ -1,4 +1,3 @@
-target/
 /target/
 !.mvn/wrapper/maven-wrapper.jar
 
@@ -24,3 +23,8 @@ target/
 /dist/
 /nbdist/
 /.nb-gradle/
+
+### Maven specific ###
+target/
+pom.xml.releaseBackup
+release.properties
